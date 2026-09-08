@@ -6,15 +6,19 @@ Aspiring Product Manager building user-focused systems and AI-driven workflow to
 I build user-focused products and design workflow systems that improve how people interact with technology.
 
 ## 🔧 Projects
-- 🎬 Movie Recommender System  
+-  Movie Recommender System  
   Python-based system that generates personalized recommendations and ranks movies using data-driven algorithms
   → https://github.com/fatouscoding/movie-recommender-system
 
-- 🧠 Create Task Feature (Product Design)  
+- Social Tab Redesign
+  Redesigned Civic’s entire Social Tab to create a more intuitive, organized, and engaging user experience.
+  → https://github.com/fatouscoding/Social-Tab-Redesign/tree/main
+  
+- Create Task Feature (Product Design)  
    Designed and scoped a task management workflow feature for a civic-tech platform, improving how users create, assign, and track work
   → https://github.com/fatouscoding/create-task-feature
 
-## 🚀 Interests
+##  Interests
 - Product Management
 - AI-powered tools
 - Workflow & system design
